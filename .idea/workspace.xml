@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3d6203f5-0e62-4eac-b2ed-05122fe75f9a" name="默认的" comment="111">
+      <change beforePath="$PROJECT_DIR$/../html/Blue.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../html/Red.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/und.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../js/time.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/Blue.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/Blue.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/Red.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/Red.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="master1" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1xJaXKpO6eLlR6n1b3FdogilVZW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="D:/学习/gitCunchu" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="项目" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\婷\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d6203f5-0e62-4eac-b2ed-05122fe75f9a" name="默认的" comment="" />
+      <created>1630075683742</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630075683742</updated>
+      <workItem from="1630075690710" duration="573000" />
+      <workItem from="1630076285254" duration="2516000" />
+      <workItem from="1630115120573" duration="1454000" />
+    </task>
+    <task id="LOCAL-00001" summary="111">
+      <created>1630076367539</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1630076367539</updated>
+    </task>
+    <task id="LOCAL-00002" summary="111">
+      <created>1630076472468</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1630076472468</updated>
+    </task>
+    <task id="LOCAL-00003" summary="111">
+      <created>1630076489167</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1630076489167</updated>
+    </task>
+    <task id="LOCAL-00004" summary="111">
+      <created>1630076516065</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1630076516065</updated>
+    </task>
+    <task id="LOCAL-00005" summary="111">
+      <created>1630076548961</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1630076548961</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="111" />
+    <option name="LAST_COMMIT_MESSAGE" value="111" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="524" y="203" key="#Notifications" timestamp="1630076607875">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="524" y="203" key="#Notifications/0.0.1280.680@0.0.1280.680" timestamp="1630076607875" />
+    <state x="233" y="0" key="#部署" timestamp="1630076405822">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#部署/0.0.1280.680@0.0.1280.680" timestamp="1630076405822" />
+    <state x="127" y="66" key="DiffContextDialog" timestamp="1630140813311">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="127" y="66" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1630140813310" />
+    <state x="421" y="82" key="FileChooserDialogImpl" timestamp="1630076172338">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="82" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1630076172338" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1630077136726">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1630077136726" />
+    <state x="239" y="88" width="814" height="534" key="Vcs.Push.Dialog.v2" timestamp="1630140817672">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="239" y="88" width="814" height="534" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1630140817672" />
+    <state x="440" y="240" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1630140555188">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="440" y="240" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1280.680@0.0.1280.680" timestamp="1630140555188" />
+    <state x="404" y="129" key="git4idea.ui.GitUnstashDialog" timestamp="1630140758034">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="404" y="129" key="git4idea.ui.GitUnstashDialog/0.0.1280.680@0.0.1280.680" timestamp="1630140758034" />
+  </component>
+</project>
